@@ -10,4 +10,4 @@ categories = [ "parser-implementations" ]
 license = "CC0-1.0"
 
 [dependencies]
-io_partition = { path = "../io_partition" }
+io_partition = "1.0.0"
